@@ -1,5 +1,7 @@
 # Vanillas 
 
+functional utils
+
 - add
 - subtract
 - multiply
